@@ -2,3 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Infos zu Hinterglemm'
 theme = "ronu-hugo-theme"
+
+[params]
+	mainSections = ["post"]
+    
