@@ -4,5 +4,4 @@ title = 'Infos zu Hinterglemm'
 theme = "ronu-hugo-theme"
 
 [params]
-	mainSections = ["post"]
-    
+	mainSections = ["posts"]
