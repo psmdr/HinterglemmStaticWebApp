@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Infos zu Hinterglemm'
-theme = "ronu-hugo-theme"
+theme = "github-style"
 
 [params]
 	mainSections = ["posts"]
