@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://lemon-smoke-048263603.1.azurestaticapps.net/'
 languageCode = 'en-us'
 title = 'Infos zu Hinterglemm'
 theme = "github-style"
